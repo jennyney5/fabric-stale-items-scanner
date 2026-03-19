@@ -6,7 +6,7 @@ Scans all reports and semantic models across your Microsoft Fabric or Power BI t
 
 ## Sample Report
 
-![Report Screenshot](report_screenshot.png)
+
 
 ## What It Does
 
