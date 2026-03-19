@@ -1,0 +1,11 @@
+# Output files
+*.html
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
+.DS_Store
